@@ -1,0 +1,22 @@
+img{
+    height: 200px;
+    width: 200px;
+    float:left;
+    
+    
+} 
+
+ body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+.text{
+    padding-top: 50vh;
+    color:blue;
+    border-bottom: solid 10px green;
+    font-size: 40px;
+    
+}

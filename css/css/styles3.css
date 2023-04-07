@@ -1,0 +1,50 @@
+.text{
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-start;
+    
+}
+
+.arrow{
+    height: 20px;
+    width: auto;
+}
+
+.page3parent{ 
+    height: 50vh;
+    width: 80vw;
+    padding-top: 20%;
+  
+}
+
+.text2{
+    display: flex;
+    align-items: flex-start;
+    padding-top: 10%;
+
+}
+.circle{
+    height: 50px;
+    width: 50px;
+    background-color: #555;
+    border-radius: 50%;
+}
+
+.rectangle{
+    height: 50px;
+    width: 100px;
+    background-color: #555;
+}
+
+.symbols{
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+.symbols2{
+    display: flex;
+    justify-content:flex-start;
+    align-items: flex-start;
+}
